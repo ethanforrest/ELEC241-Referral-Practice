@@ -22,13 +22,13 @@ Here are the tasks I have managed for this referral:
  - SPI Master
 
 	- Followed the inputs and outputs that were supplied.
-	- Testbench present.
+	- Testbench started, not completed.
 
 
  - Buffer
 
 	- Quite simple (if I am correct)
-	- Testbench.
+	- Testbench not started but a component plan is in place. I hope this can show my understanding. Not completed due to timing.
 
 
 
