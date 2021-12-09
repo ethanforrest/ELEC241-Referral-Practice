@@ -45,12 +45,15 @@ begin
 	tx <= "ZZZZZZZZ";
 	cs <= '1';
 
-		elsif (rising_edge(Sys_CLK)) then							-- When Sys_CLK is rising...
+	elsif (start <='1' then
+
+		if(rising_edge(Sys_CLK)) then							-- When Sys_CLK is rising...
 
 		output <= tx; 										-- Set the MOSI to tx.
 		input  <= rx;
 
-		cs <= '0';										-- Chip select is pulled low.
+		cs <= '0';	
+		end if;									-- Chip select is pulled low.
 
 	end if;
 
@@ -64,12 +67,7 @@ end arc;
 	-- This component does compile, which gives me some confidence in it. I am hopeful this component has demonstrated my understanding.
 
 
-
-
-
-
-
-
+	
 
 
 
