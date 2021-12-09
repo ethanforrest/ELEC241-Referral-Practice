@@ -1,4 +1,0 @@
-ELEC241 Practice Referral
-
-I will be using this file to give any information I feel is important to the code. It is also useful for my version control.
-
