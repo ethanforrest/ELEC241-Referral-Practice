@@ -36,3 +36,33 @@ begin
 	
 
  
+end bufferarc;
+
+
+
+ -- Buffer Plan -- 
+
+ -- Signals for tx and rx (mosi and miso).
+ -- Send to the calc component.
+	-- "... the buffer data is then read and analaysed by the CALC component" so it does not need to be written
+	-- Being marked on the buffer. 
+ -- "0000" & input to make the 12-bit value.
+ -- Store in array.
+
+ -- Concatonate the input -> send it to the array -> when the array is full, empty it to the calc -> start filling again.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

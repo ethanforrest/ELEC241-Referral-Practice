@@ -29,7 +29,9 @@ architecture buffarc of buffer is
 
 begin 
 
+if rising_edge(clock) then 
 
+input <= hold;
 
 
 
