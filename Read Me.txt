@@ -1,0 +1,34 @@
+-- ELEC241 Practice Referral --
+
+Here are the tasks I have managed for this referral: 
+
+ - Presentation
+
+	- I am happy with this presentation, and believe it is adequate for the marking scheme. 
+		- My notes for it are included (not sure it is needed). 
+		- Relevant links are within the PowerPoint.
+
+ - Management
+
+	- I have kept track of myself throughout this presentation.
+		- Kanban Board, with short updates.
+			- Kanban changes are screenshotted in the OneNote file.
+		- OneNote updates regularly, showing an in-depth look at what I am doing/have done.
+
+	- GitHub shows the version control well.
+		- There are suitable comments, and brief descriptions of all changes I made.
+		- Occasional update within my OneNote document; for more detail, the marker should have access to the GitHub repository.
+
+ - SPI Master
+
+	- Followed the inputs and outputs that were supplied.
+	- Testbench present.
+
+
+ - Buffer
+
+	- Quite simple (if I am correct)
+	- Testbench.
+
+
+
